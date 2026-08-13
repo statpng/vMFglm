@@ -1,0 +1,17 @@
+Package: vMFglm
+Type: Package
+Title: Generalized linear model for a spherical response via von Mises-Fisher distribution
+Version: 1.0
+Date: 2024-09-15
+Author: Kipoong Kim
+Maintainer: Kipoong Kim <kkp7700@gmail.com>
+Description: Description.
+License: GPL (>= 3)
+Imports: Rcpp (>= 1.0.13), Matrix, MASS, dplyr, mnormt, gtools, testthat, shapes, magic, Rsolnp, RiemBase, manifold, Directional
+LinkingTo: Rcpp, RcppArmadillo, BH
+RoxygenNote: 7.3.3
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: yes
+Packaged: 2023-02-16 16:49:18 UTC; png
+Config/testthat/edition: 3
